@@ -17,7 +17,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="properties-service-v">
-                <img src="assets/img/about1.jpeg">
+                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/about1.jpeg">
                 </div>
             </div>
             <div class="col-lg-6 align-self-center">
@@ -32,7 +32,7 @@
 
 
 <!-- Counters start -->
-<div class="counters overview-bgi" style="background-image: url('assets/img/counters.png')">
+<div class="counters overview-bgi" style="background-image: url('https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/counters.png')">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-3 col-sm-6">
@@ -92,7 +92,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="properties-service-v">
-                     <img src="assets/img/about2.jpeg">
+                     <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/about2.jpeg">
                 </div>
             </div>
             <div class="col-lg-6 align-self-center">

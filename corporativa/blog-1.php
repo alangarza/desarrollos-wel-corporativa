@@ -16,7 +16,7 @@
             <div class="col-lg-10 offset-lg-1">
                 <!-- Blog grid box start -->
                 <div class="blog-grid-box">
-                    <img class="blog-theme img-fluid" src="assets/img/blog1.jpg" alt="blog-3">
+                    <img class="blog-theme img-fluid" src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/blog1.jpg" alt="blog-3">
                     <div class="detail">
                         <div class="date-box">
                             <h5>04</h5>

@@ -23,7 +23,7 @@
                     <div class="property-thumbnail">
                         <a href="san-francisco" class="property-img">
                            
-                            <img src="assets/img/desarrollos/sanfran-main.png" alt="property-2" class="img-fluid">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/desarrollos/sanfran-main.png" alt="property-2" class="img-fluid">
                         </a>
                        
                     </div>

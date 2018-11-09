@@ -25,7 +25,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/doscantos.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/doscantos.jpg" alt="" />
             <p class="caption">
             2015
             </p>
@@ -37,7 +37,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/amazonas.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/amazonas.jpg" alt="" />
             <p class="caption">
             2014
             </p>
@@ -48,7 +48,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/patagonia.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/patagonia.jpg" alt="" />
             <p class="caption">
             2012
             </p>
@@ -71,7 +71,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/volga.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/volga.jpg" alt="" />
             <p class="caption">
             2013
             </p>
@@ -83,7 +83,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/california.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/california.jpg" alt="" />
             <p class="caption">
             2012
             </p>
@@ -94,7 +94,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/leoneselite.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/leoneselite.jpg" alt="" />
             <p class="caption">
             2011
             </p>
@@ -105,7 +105,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/sn1.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/sn1.jpg" alt="" />
             <p class="caption">
             2010
             </p>
@@ -116,7 +116,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/sn2.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/sn2.jpg" alt="" />
             <p class="caption">
             2010
             </p>
@@ -127,7 +127,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/sn3.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/sn3.jpg" alt="" />
             <p class="caption">
             2010
             </p>
@@ -138,7 +138,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/351.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/351.jpg" alt="" />
             <p class="caption">
             2009
             </p>
@@ -149,7 +149,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/musas.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/musas.jpg" alt="" />
             <p class="caption">
             2009
             </p>
@@ -160,7 +160,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/palmas.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/palmas.jpg" alt="" />
             <p class="caption">
             2008
             </p>
@@ -171,7 +171,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/americas.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/americas.jpg" alt="" />
             <p class="caption">
             2007
             </p>
@@ -182,7 +182,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/acapulco.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/acapulco.jpg" alt="" />
             <p class="caption">
             2006
             </p>
@@ -193,7 +193,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/constelaciones.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/constelaciones.jpg" alt="" />
             <p class="caption">
             2006
             </p>
@@ -204,7 +204,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/sn4.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/sn4.jpg" alt="" />
             <p class="caption">
             2004
             </p>
@@ -215,7 +215,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/delparque.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/delparque.jpg" alt="" />
             <p class="caption">
             2003
             </p>
@@ -226,7 +226,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/valle.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/valle.jpg" alt="" />
             <p class="caption">
             2003
             </p>
@@ -237,7 +237,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/lomas.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/lomas.jpg" alt="" />
             <p class="caption">
             2002
             </p>
@@ -248,7 +248,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/misiones.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/misiones.jpg" alt="" />
             <p class="caption">
             2002
             </p>
@@ -259,7 +259,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/nogales.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/nogales.jpg" alt="" />
             <p class="caption">
             2002
             </p>
@@ -270,7 +270,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/miravalle.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/miravalle.jpg" alt="" />
             <p class="caption">
             2001
             </p>
@@ -281,7 +281,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/mississipi.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/mississipi.jpg" alt="" />
             <p class="caption">
             2002
             </p>
@@ -292,7 +292,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/vista2.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/vista2.jpg" alt="" />
             <p class="caption">
             1996
             </p>
@@ -303,7 +303,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/vista1.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/vista1.jpg" alt="" />
             <p class="caption">
             1996
             </p>
@@ -314,7 +314,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/sanangel.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/sanangel.jpg" alt="" />
             <p class="caption">
             1995
             </p>
@@ -325,7 +325,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/sn5.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/sn5.jpg" alt="" />
             <p class="caption">
             1994
             </p>
@@ -336,7 +336,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/londres.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/londres.jpg" alt="" />
             <p class="caption">
             1990
             </p>
@@ -347,7 +347,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/moll.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/moll.jpg" alt="" />
             <p class="caption">
             1980
             </p>
@@ -358,7 +358,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/sn6.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/sn6.jpg" alt="" />
             <p class="caption">
             1977
             </p>
@@ -369,7 +369,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/sn7.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/sn7.jpg" alt="" />
             <p class="caption">
             1975
             </p>
@@ -380,7 +380,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/delbosque.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/delbosque.jpg" alt="" />
             <p class="caption">
             1975
             </p>
@@ -391,7 +391,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/sn8.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/sn8.jpg" alt="" />
             <p class="caption">
             1970
             </p>
@@ -413,7 +413,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/california.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/california.jpg" alt="" />
             <p class="caption">
             2012
             </p>
@@ -425,7 +425,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/oficinas-mg.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/oficinas-mg.jpg" alt="" />
             <p class="caption">
             2004
             </p>
@@ -436,7 +436,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/oficinas-valle.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/oficinas-valle.jpg" alt="" />
             <p class="caption">
             2003
             </p>
@@ -447,7 +447,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/oficinas-miravalle.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/oficinas-miravalle.jpg" alt="" />
             <p class="caption">
             2001
             </p>
@@ -458,7 +458,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/oficinas-sn3.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/oficinas-sn3.jpg" alt="" />
             <p class="caption">
             1994
             </p>
@@ -469,7 +469,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/oficinas-londres.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/oficinas-londres.jpg" alt="" />
             <p class="caption">
             1990
             </p>
@@ -480,7 +480,7 @@
         <li class="day">
         <div class="events">
             <div class="day__img">
-            <img src="assets/img/experiencia/oficinas-moll.jpg" alt="" />
+            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/oficinas-moll.jpg" alt="" />
             <p class="caption">
             1980
             </p>

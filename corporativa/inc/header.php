@@ -25,7 +25,7 @@
 
 
     <!-- Favicon icon -->
-    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon" >
+    <link rel="shortcut icon" href="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/favicon.png" type="image/x-icon" >
 
     <!-- Google fonts -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800%7CPoppins:400,500,700,800,900%7CRoboto:100,300,400,400i,500,700">
@@ -55,7 +55,7 @@
             <div class="col-12">
                 <nav class="navbar navbar-expand-lg navbar-light rounded">
                     <a class="navbar-brand logo navbar-brand d-flex w-50 mr-auto" href="index">
-                        <img src="assets/img/logos/logo-dark.png" alt="logo">
+                        <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/logos/logo-dark.png" alt="logo">
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="fa fa-bars"></span>
@@ -69,7 +69,7 @@
                           
                             </li>
                             <li class="nav-item ">
-                                    <a class="nav-link" href="nosotros" aria-haspopup="true" aria-expanded="false">
+                                    <a class="nav-link" href="nosotros.php" aria-haspopup="true" aria-expanded="false">
                                         Nosotros
                                     </a>
                               

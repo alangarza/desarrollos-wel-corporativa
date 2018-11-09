@@ -29,19 +29,19 @@
                     <!-- main slider carousel items -->
                     <div class="carousel-inner">
                         <div class="active item carousel-item" data-slide-number="0">
-                            <img src="assets/img/vetro/main-tower.png" class="img-fluid" alt="blog-2">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/main-tower.png" class="img-fluid" alt="blog-2">
                         </div>
                         <div class="item carousel-item" data-slide-number="1">
-                            <img src="assets/img/vetro/main-locales.png" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/main-locales.png" class="img-fluid" alt="blog-3">
                         </div>
                         <div class="item carousel-item" data-slide-number="2">
-                            <img src="assets/img/vetro/main-sala.png" class="img-fluid" alt="blog-0">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/main-sala.png" class="img-fluid" alt="blog-0">
                         </div>
                         <div class="item carousel-item" data-slide-number="4">
-                            <img src="assets/img/vetro/main-lobby.png" class="img-fluid" alt="blog-2">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/main-lobby.png" class="img-fluid" alt="blog-2">
                         </div>
                         <div class="item carousel-item" data-slide-number="5">
-                            <img src="assets/img/vetro/main-comedor.png" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/main-comedor.png" class="img-fluid" alt="blog-3">
                         </div>
 
                         <a class="carousel-control left" href="#propertiesDetailsSlider" data-slide="prev"><i class="fa fa-angle-left"></i></a>
@@ -52,27 +52,27 @@
                     <ul class="carousel-indicators smail-properties list-inline nav nav-justified ">
                         <li class="list-inline-item active">
                             <a id="carousel-selector-0" class="selected" data-slide-to="0" data-target="#propertiesDetailsSlider">
-                                <img src="assets/img/vetro/main-tower.png" class="img-fluid" alt="blog-3">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/main-tower.png" class="img-fluid" alt="blog-3">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-1" data-slide-to="1" data-target="#propertiesDetailsSlider">
-                                <img src="assets/img/vetro/main-locales.png" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/main-locales.png" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-2" data-slide-to="2" data-target="#propertiesDetailsSlider">
-                                <img src="assets/img/vetro/main-sala.png" class="img-fluid" alt="blog">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/main-sala.png" class="img-fluid" alt="blog">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-3" data-slide-to="3" data-target="#propertiesDetailsSlider">
-                                <img src="assets/img/vetro/main-lobby.png" class="img-fluid" alt="blog-3">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/main-lobby.png" class="img-fluid" alt="blog-3">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-4" data-slide-to="4" data-target="#propertiesDetailsSlider">
-                                <img src="assets/img/vetro/main-comedor.png" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/main-comedor.png" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                     </ul>
@@ -117,43 +117,43 @@
                     <!-- main slider carousel items -->
                     <div class="carousel-inner">
                         <div class="active item carousel-item" data-slide-number="0">
-                            <img src="assets/img/vetro/plano2.jpeg" class="img-fluid" alt="blog-2">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano2.jpeg" class="img-fluid" alt="blog-2">
                         </div>
                         <div class="item carousel-item" data-slide-number="1">
-                            <img src="assets/img/vetro/plano3.jpeg" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano3.jpeg" class="img-fluid" alt="blog-3">
                         </div>
                         <div class="item carousel-item" data-slide-number="2">
-                            <img src="assets/img/vetro/plano4.jpeg" class="img-fluid" alt="blog-0">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano4.jpeg" class="img-fluid" alt="blog-0">
                         </div>
                         <div class="item carousel-item" data-slide-number="4">
-                            <img src="assets/img/vetro/plano5.jpeg" class="img-fluid" alt="blog-2">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano5.jpeg" class="img-fluid" alt="blog-2">
                         </div>
                         <div class="item carousel-item" data-slide-number="5">
-                            <img src="assets/img/vetro/plano6.jpeg" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano6.jpeg" class="img-fluid" alt="blog-3">
                         </div>
                         <div class="item carousel-item" data-slide-number="6">
-                            <img src="assets/img/vetro/plano7.jpeg" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano7.jpeg" class="img-fluid" alt="blog-3">
                         </div>
                         <div class="item carousel-item" data-slide-number="7">
-                            <img src="assets/img/vetro/plano8.jpeg" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano8.jpeg" class="img-fluid" alt="blog-3">
                         </div>
                         <div class="item carousel-item" data-slide-number="8">
-                            <img src="assets/img/vetro/plano9.jpeg" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano9.jpeg" class="img-fluid" alt="blog-3">
                         </div>
                         <div class="item carousel-item" data-slide-number="9">
-                            <img src="assets/img/vetro/plano10.jpeg" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano10.jpeg" class="img-fluid" alt="blog-3">
                         </div>
                         <div class="item carousel-item" data-slide-number="10">
-                            <img src="assets/img/vetro/plano11.jpeg" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano11.jpeg" class="img-fluid" alt="blog-3">
                         </div>
                         <div class="item carousel-item" data-slide-number="11">
-                            <img src="assets/img/vetro/plano12.jpeg" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano12.jpeg" class="img-fluid" alt="blog-3">
                         </div>
                         <div class="item carousel-item" data-slide-number="12">
-                            <img src="assets/img/vetro/plano13.jpeg" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano13.jpeg" class="img-fluid" alt="blog-3">
                         </div>
                         <div class="item carousel-item" data-slide-number="13">
-                            <img src="assets/img/vetro/plano14.jpeg" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano14.jpeg" class="img-fluid" alt="blog-3">
                         </div>
                        
                       
@@ -166,67 +166,67 @@
                     <ul class="carousel-indicators smail-properties list-inline nav nav-justified ">
                         <li class="list-inline-item active">
                             <a id="carousel-selector-0" class="selected" data-slide-to="0" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano2.jpeg" class="img-fluid" alt="blog-3">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano2.jpeg" class="img-fluid" alt="blog-3">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-1" data-slide-to="1" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano3.jpeg" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano3.jpeg" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-2" data-slide-to="2" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano4.jpeg" class="img-fluid" alt="blog">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano4.jpeg" class="img-fluid" alt="blog">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-3" data-slide-to="3" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano5.jpeg" class="img-fluid" alt="blog-3">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano5.jpeg" class="img-fluid" alt="blog-3">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-4" data-slide-to="4" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano6.jpeg" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano6.jpeg" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-4" data-slide-to="5" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano7.jpeg" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano7.jpeg" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-4" data-slide-to="6" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano8.jpeg" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano8.jpeg" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-4" data-slide-to="7" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano9.jpeg" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano9.jpeg" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-4" data-slide-to="8" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano10.jpeg" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano10.jpeg" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-4" data-slide-to="9" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano11.jpeg" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano11.jpeg" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-4" data-slide-to="10" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano12.jpeg" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano12.jpeg" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-4" data-slide-to="11" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano13.jpeg" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano13.jpeg" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-4" data-slide-to="12" data-target="#PlanosSlider">
-                                <img src="assets/img/vetro/plano14.jpeg" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/plano14.jpeg" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                        
@@ -236,19 +236,19 @@
                             <!-- <div class="floor-plans mb-60">
                            
                                 <h3 class="heading">Corte Arquitectonico</h3>
-                                    <img src="assets/img/vetro/corte.png" alt="floor-plans" class="img-fluid">
+                                    <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/corte.png" alt="floor-plans" class="img-fluid">
                                     <hr>
                                 <h3 class="heading">SÓTANO 6 – ESTACIONAMIENTO Y BODEGAS</h3>
-                                    <img src="assets/img/vetro/sotano6.png" alt="floor-plans" class="img-fluid">
+                                    <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/sotano6.png" alt="floor-plans" class="img-fluid">
                                     <hr>
                                 <h3 class="heading">SÓTANO 2 A 5 - ESTACIONAMIENTO</h3>
-                                    <img src="assets/img/vetro/sotano2-5.png" alt="floor-plans" class="img-fluid">
+                                    <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/sotano2-5.png" alt="floor-plans" class="img-fluid">
                                     <hr>
                                 <h3 class="heading">SÓTANO UNO – ESTACIONAMIENTO Y BODEGAS</h3>
-                                    <img src="assets/img/vetro/sotano1.png" alt="floor-plans" class="img-fluid">
+                                    <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/sotano1.png" alt="floor-plans" class="img-fluid">
                                     <hr>
                                 <h3 class="heading">PLANTA BAJA – LOCALES COMERCIALES</h3>
-                                    <img src="assets/img/vetro/sotano1.png" alt="floor-plans" class="img-fluid">
+                                    <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/sotano1.png" alt="floor-plans" class="img-fluid">
                             </div> -->
                         </div>
                         

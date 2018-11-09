@@ -24,7 +24,7 @@
                     <div class="property-thumbnail">
                         <a href="santa-isabel" class="property-img">
                            
-                            <img src="assets/img/desarrollos/santaisabel-main.png" alt="property-2" class="img-fluid">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/desarrollos/santaisabel-main.png" alt="property-2" class="img-fluid">
                         </a>
                        
                     </div>
@@ -48,13 +48,13 @@
                     <div class="property-thumbnail">
                         <a href="cubik" class="property-img">
                            
-                            <img src="assets/img/desarrollos/cubik-main.png" alt="property-2" class="img-fluid">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/desarrollos/cubik-main.png" alt="property-2" class="img-fluid">
                         </a>
                        
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="cubik.php">Torre Cubik</a>
+                            <a href="cubik">Torre Cubik</a>
                         </h1>
                         <div class="location">
                             <a href="cubik">
@@ -74,7 +74,7 @@
                     <div class="property-thumbnail">
                         <a href="torre-vetro" class="property-img">
                            
-                            <img src="assets/img/desarrollos/vetro-main.png" alt="property-2" class="img-fluid">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/desarrollos/vetro-main.png" alt="property-2" class="img-fluid">
                         </a>
                        
                     </div>

@@ -150,10 +150,10 @@
                         </div>
                         <div class="detail">
                             <h1 class="title">
-                                <a href="cubik.">Torre Cubik</a>
+                                <a href="cubik">Torre Cubik</a>
                             </h1>
                             <div class="location">
-                                <a href="cubik.">
+                                <a href="cubik">
                                     <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>San Pedro Garza García
                                 </a>
                                 <p>3 locales con terraza para restaurantes desde 580 m2, 36 locales comerciales desde 51 m2 y 30 departamentos desde 68 m2. </p>
@@ -300,7 +300,7 @@
                 <div class="row blog-list">
                     <div class="col-lg-5 col-md-12 col-pad ">
                         <div class="photo">
-                            <img src="assets/img/blog/blog3.png" alt="blog-4" class="img-fluid fit-cover h-100">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/blog/blog3.png" alt="blog-4" class="img-fluid fit-cover h-100">
                             <div class="date-box">
                                 <h5>22</h5>
                                 <h5>OCT</h5>
@@ -325,7 +325,7 @@
                 <div class="row blog-list">
                     <div class="col-lg-5 col-md-12 col-pad ">
                         <div class="photo">
-                            <img src="assets/img/blog/blog1.png" alt="blog-5" class="img-fluid fit-cover h-100">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/blog/blog1.png" alt="blog-5" class="img-fluid fit-cover h-100">
                             <div class="date-box">
                                 <h5>18</h5>
                                 <h5>OCT</h5>

@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="blog-grid-box">
-                    <img class="blog-theme img-fluid" src="assets/img/blog1.jpg" alt="property-10">
+                    <img class="blog-theme img-fluid" src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/blog1.jpg" alt="property-10">
                     <div class="detail">
                         <div class="date-box">
                             <h5>05</h5>

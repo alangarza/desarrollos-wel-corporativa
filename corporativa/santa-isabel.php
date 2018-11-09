@@ -29,19 +29,19 @@
                     <!-- main slider carousel items -->
                     <div class="carousel-inner">
                         <div class="active item carousel-item" data-slide-number="0">
-                            <img src="assets/img/santa-isabel/main1.png" class="img-fluid" alt="blog-2">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/main1.png" class="img-fluid" alt="blog-2">
                         </div>
                         <div class="item carousel-item" data-slide-number="1">
-                            <img src="assets/img/santa-isabel/main2.png" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/main2.png" class="img-fluid" alt="blog-3">
                         </div>
                         <div class="item carousel-item" data-slide-number="2">
-                            <img src="assets/img/santa-isabel/main3.png" class="img-fluid" alt="blog-0">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/main3.png" class="img-fluid" alt="blog-0">
                         </div>
                         <div class="item carousel-item" data-slide-number="4">
-                            <img src="assets/img/santa-isabel/main4.png" class="img-fluid" alt="blog-2">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/main4.png" class="img-fluid" alt="blog-2">
                         </div>
                         <div class="item carousel-item" data-slide-number="5">
-                            <img src="assets/img/santa-isabel/main5.png" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/main5.png" class="img-fluid" alt="blog-3">
                         </div>
 
                         <a class="carousel-control left" href="#propertiesDetailsSlider" data-slide="prev"><i class="fa fa-angle-left"></i></a>
@@ -52,27 +52,27 @@
                     <ul class="carousel-indicators smail-properties list-inline nav nav-justified ">
                         <li class="list-inline-item active">
                             <a id="carousel-selector-0" class="selected" data-slide-to="0" data-target="#propertiesDetailsSlider">
-                                <img src="assets/img/santa-isabel/main1.png" class="img-fluid" alt="blog-3">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/main1.png" class="img-fluid" alt="blog-3">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-1" data-slide-to="1" data-target="#propertiesDetailsSlider">
-                                <img src="assets/img/santa-isabel/main2.png" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/main2.png" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-2" data-slide-to="2" data-target="#propertiesDetailsSlider">
-                                <img src="assets/img/santa-isabel/main3.png" class="img-fluid" alt="blog">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/main3.png" class="img-fluid" alt="blog">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-3" data-slide-to="3" data-target="#propertiesDetailsSlider">
-                                <img src="assets/img/santa-isabel/main4.png" class="img-fluid" alt="blog-3">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/main4.png" class="img-fluid" alt="blog-3">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-4" data-slide-to="4" data-target="#propertiesDetailsSlider">
-                                <img src="assets/img/santa-isabel/main5.png" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/main5.png" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                     </ul>
@@ -119,19 +119,19 @@ MG Arquitectura + Interiores
                     <!-- main slider carousel items -->
                     <div class="carousel-inner">
                         <div class="active item carousel-item" data-slide-number="0">
-                            <img src="assets/img/santa-isabel/plano2.jpeg" class="img-fluid" alt="blog-2">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/plano2.jpeg" class="img-fluid" alt="blog-2">
                         </div>
                         <div class="item carousel-item" data-slide-number="1">
-                            <img src="assets/img/santa-isabel/plano3.jpeg" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/plano3.jpeg" class="img-fluid" alt="blog-3">
                         </div>
                         <div class="item carousel-item" data-slide-number="2">
-                            <img src="assets/img/santa-isabel/plano4.jpeg" class="img-fluid" alt="blog-0">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/plano4.jpeg" class="img-fluid" alt="blog-0">
                         </div>
                         <div class="item carousel-item" data-slide-number="4">
-                            <img src="assets/img/santa-isabel/plano5.jpeg" class="img-fluid" alt="blog-2">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/plano5.jpeg" class="img-fluid" alt="blog-2">
                         </div>
                         <div class="item carousel-item" data-slide-number="5">
-                            <img src="assets/img/santa-isabel/plano6.jpeg" class="img-fluid" alt="blog-3">
+                            <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/plano6.jpeg" class="img-fluid" alt="blog-3">
                         </div>
                     
                       
@@ -144,27 +144,27 @@ MG Arquitectura + Interiores
                     <ul class="carousel-indicators smail-properties list-inline nav nav-justified ">
                         <li class="list-inline-item active">
                             <a id="carousel-selector-0" class="selected" data-slide-to="0" data-target="#PlanosSlider">
-                                <img src="assets/img/santa-isabel/plano2.jpeg" class="img-fluid" alt="blog-3">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/plano2.jpeg" class="img-fluid" alt="blog-3">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-1" data-slide-to="1" data-target="#PlanosSlider">
-                                <img src="assets/img/santa-isabel/plano3.jpeg" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/plano3.jpeg" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-2" data-slide-to="2" data-target="#PlanosSlider">
-                                <img src="assets/img/santa-isabel/plano4.jpeg" class="img-fluid" alt="blog">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/plano4.jpeg" class="img-fluid" alt="blog">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-3" data-slide-to="3" data-target="#PlanosSlider">
-                                <img src="assets/img/santa-isabel/plano5.jpeg" class="img-fluid" alt="blog-3">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/plano5.jpeg" class="img-fluid" alt="blog-3">
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a id="carousel-selector-4" data-slide-to="4" data-target="#PlanosSlider">
-                                <img src="assets/img/santa-isabel/plano6.jpeg" class="img-fluid" alt="blog-2">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/santa-isabel/plano6.jpeg" class="img-fluid" alt="blog-2">
                             </a>
                         </li>
                        
@@ -176,19 +176,19 @@ MG Arquitectura + Interiores
                             <!-- <div class="floor-plans mb-60">
                            
                                 <h3 class="heading">Corte Arquitectonico</h3>
-                                    <img src="assets/img/vetro/corte.png" alt="floor-plans" class="img-fluid">
+                                    <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/corte.png" alt="floor-plans" class="img-fluid">
                                     <hr>
                                 <h3 class="heading">SÓTANO 6 – ESTACIONAMIENTO Y BODEGAS</h3>
-                                    <img src="assets/img/vetro/sotano6.png" alt="floor-plans" class="img-fluid">
+                                    <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/sotano6.png" alt="floor-plans" class="img-fluid">
                                     <hr>
                                 <h3 class="heading">SÓTANO 2 A 5 - ESTACIONAMIENTO</h3>
-                                    <img src="assets/img/vetro/sotano2-5.png" alt="floor-plans" class="img-fluid">
+                                    <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/sotano2-5.png" alt="floor-plans" class="img-fluid">
                                     <hr>
                                 <h3 class="heading">SÓTANO UNO – ESTACIONAMIENTO Y BODEGAS</h3>
-                                    <img src="assets/img/vetro/sotano1.png" alt="floor-plans" class="img-fluid">
+                                    <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/sotano1.png" alt="floor-plans" class="img-fluid">
                                     <hr>
                                 <h3 class="heading">PLANTA BAJA – LOCALES COMERCIALES</h3>
-                                    <img src="assets/img/vetro/sotano1.png" alt="floor-plans" class="img-fluid">
+                                    <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/vetro/sotano1.png" alt="floor-plans" class="img-fluid">
                             </div> -->
                         </div>
                         

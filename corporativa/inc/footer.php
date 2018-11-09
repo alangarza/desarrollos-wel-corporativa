@@ -1,6 +1,9 @@
 
 <!-- Footer start -->
 <footer class="footer">
+    <!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5056854.js"></script>
+<!-- End of HubSpot Embed Code -->
     <div class="container footer-inner">
         <div class="row">
             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
@@ -36,16 +39,16 @@
                     </h4>
                     <ul class="links">
                         <li>
-                            <a href="nosotros.php"><i class="fa fa-angle-right"></i>Nosotros</a>
+                            <a href="nosotros"><i class="fa fa-angle-right"></i>Nosotros</a>
                         </li>
                         <!-- <li>
                             <a href=""><i class="fa fa-angle-right"></i>Preventa</a>
                         </li> -->
                         <li>
-                            <a href="experiencia.php"><i class="fa fa-angle-right"></i>Experiencia</a>
+                            <a href="experiencia"><i class="fa fa-angle-right"></i>Experiencia</a>
                         </li>
                         <li>
-                            <a href="contacto.php"><i class="fa fa-angle-right"></i>Contacto</a>
+                            <a href="contacto"><i class="fa fa-angle-right"></i>Contacto</a>
                         </li>
                         <li>
                             <a href="#"><i class="fa fa-angle-right"></i>Politica de Privacidad</a>
@@ -58,7 +61,7 @@
                 <div class="recent-posts footer-item">
                     <h4>Proyectos Recientes</h4>
                     <div class="media mb-4">
-                        <a class="pr-4" href="torre-vetro.php">
+                        <a class="pr-4" href="torre-vetro">
                             <img src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/vetro.png" alt="sub-property">
                         </a>
                         <div class="media-body align-self-center">
@@ -69,7 +72,7 @@
                         </div>
                     </div>
                     <div class="media mb-4">
-                        <a class="pr-4" href="santa-isabel.php">
+                        <a class="pr-4" href="santa-isabel">
                             <img src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/santa.png" alt="sub-property-2">
                         </a>
                         <div class="media-body align-self-center">
@@ -80,7 +83,7 @@
                         </div>
                     </div>
                     <div class="media">
-                        <a class="pr-4" href="san-francisco.php">
+                        <a class="pr-4" href="san-francisco">
                             <img src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/sanfran.png" alt="sub-property-3">
                         </a>
                         <div class="media-body align-self-center">
@@ -132,7 +135,7 @@
         <div class="off-canvas-content">
             <aside class="canvas-widget">
                 <div class="logo text-center">
-                    <img src="assets/img/logos/logo.png" alt="logo">
+                    <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/logos/logo.png" alt="logo">
                 </div>
             </aside>
             <aside class="canvas-widget">
