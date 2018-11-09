@@ -14,8 +14,8 @@
                                     <br/>TU FUTURO</h1>
                             <p data-animation="animated fadeInUp delay-10s">
                                     Contamos con más de 50 años de experiencia desarrollando bienes inmobiliarios rentables                            </p>
-                            <a data-animation="animated fadeInUp delay-10s" href="oficinas.php" class="btn btn-lg btn-round btn-theme">Oficinas</a>
-                            <a data-animation="animated fadeInUp delay-12s" href="contacto.php" class="btn btn-lg btn-round btn-white-lg-outline">Contacto</a>
+                            <a data-animation="animated fadeInUp delay-10s" href="oficinas" class="btn btn-lg btn-round btn-theme">Oficinas</a>
+                            <a data-animation="animated fadeInUp delay-12s" href="contacto" class="btn btn-lg btn-round btn-white-lg-outline">Contacto</a>
                         </div>
                     </div>
                 </div>
@@ -31,8 +31,8 @@
                                             <br/>TU FUTURO</h1>
                                     <p data-animation="animated fadeInUp delay-10s">
                                             Contamos con más de 50 años de experiencia desarrollando bienes inmobiliarios rentables                            </p>
-                                    <a data-animation="animated fadeInUp delay-10s" href="locales.php" class="btn btn-lg btn-round btn-theme">Locales</a>
-                                    <a data-animation="animated fadeInUp delay-12s" href="contacto.php" class="btn btn-lg btn-round btn-white-lg-outline">Contacto</a>
+                                    <a data-animation="animated fadeInUp delay-10s" href="locales" class="btn btn-lg btn-round btn-theme">Locales</a>
+                                    <a data-animation="animated fadeInUp delay-12s" href="contacto" class="btn btn-lg btn-round btn-white-lg-outline">Contacto</a>
                                 </div>
                             </div>
                 </div>
@@ -48,8 +48,8 @@
                                             <br/>TU FUTURO</h1>
                                     <p data-animation="animated fadeInUp delay-10s">
                                             Contamos con más de 50 años de experiencia desarrollando bienes inmobiliarios rentables                            </p>
-                                    <a data-animation="animated fadeInUp delay-10s" href="departamentos.php" class="btn btn-lg btn-round btn-theme">Departamentos</a>
-                                    <a data-animation="animated fadeInUp delay-12s" href="contacto.php" class="btn btn-lg btn-round btn-white-lg-outline">Contacto</a>
+                                    <a data-animation="animated fadeInUp delay-10s" href="departamentos" class="btn btn-lg btn-round btn-theme">Departamentos</a>
+                                    <a data-animation="animated fadeInUp delay-12s" href="contacto" class="btn btn-lg btn-round btn-white-lg-outline">Contacto</a>
                                 </div>
                             </div>
                 </div>
@@ -85,7 +85,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 filtr-item" data-category="1, 2">
                     <div class="property-box">
                         <div class="property-thumbnail">
-                            <a href="torre-vetro.php" class="property-img">
+                            <a href="torre-vetro" class="property-img">
                                 <div class="tag button alt featured">Destacado</div>
                              
                                 <img src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/vetro.png" alt="property-7" class="img-fluid">
@@ -96,10 +96,10 @@
                         </div>
                         <div class="detail">
                             <h1 class="title">
-                                <a href="torre-vetro.php">Torre vetro</a>
+                                <a href="torre-vetro">Torre vetro</a>
                             </h1>
                             <div class="location">
-                                <a href="torre-vetro.php">
+                                <a href="torre-vetro">
                                     <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>Monterrey, Nuevo León
                                 </a>
                                 <p>3 locales con terraza para restaurantes desde 580 m2, 36 locales comerciales desde 51 m2 y 30 departamentos desde 68 m2. </p>
@@ -112,7 +112,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 filtr-item" data-category="1, 2">
                     <div class="property-box">
                         <div class="property-thumbnail">
-                            <a href="santa-isabel.php" class="property-img">
+                            <a href="santa-isabel" class="property-img">
                                 <div class="tag button alt featured">Destacado</div>
                                
                                 <img src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/santa.png" alt="property-2" class="img-fluid">
@@ -123,10 +123,10 @@
                         </div>
                         <div class="detail">
                             <h1 class="title">
-                                <a href="santa-isabel.php">Santa Isabel</a>
+                                <a href="santa-isabel">Santa Isabel</a>
                             </h1>
                             <div class="location">
-                                <a href="santa-isabel.php">
+                                <a href="santa-isabel">
                                     <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>Saltillo, Coahuila
 </a>
 <p>3 locales con terraza para restaurantes desde 580 m2, 36 locales comerciales desde 51 m2 y 30 departamentos desde 68 m2. </p>
@@ -139,7 +139,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 filtr-item" data-category="1, 2">
                     <div class="property-box">
                         <div class="property-thumbnail">
-                            <a href="cubik.php" class="property-img">
+                            <a href="cubik" class="property-img">
                                 <div class="tag button alt featured">Destacado</div>
                                
                                 <img src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/cubik.png" alt="property-3" class="img-fluid">
@@ -150,10 +150,10 @@
                         </div>
                         <div class="detail">
                             <h1 class="title">
-                                <a href="cubik.php">Torre Cubik</a>
+                                <a href="cubik.">Torre Cubik</a>
                             </h1>
                             <div class="location">
-                                <a href="cubik.php">
+                                <a href="cubik.">
                                     <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>San Pedro Garza García
                                 </a>
                                 <p>3 locales con terraza para restaurantes desde 580 m2, 36 locales comerciales desde 51 m2 y 30 departamentos desde 68 m2. </p>
@@ -166,7 +166,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 filtr-item" data-category="1, 3">
                     <div class="property-box">
                         <div class="property-thumbnail">
-                            <a href="san-francisco.php" class="property-img">
+                            <a href="san-francisco" class="property-img">
                                 <div class="tag button alt featured">Destacado</div>
                                 
                                 <img src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/sanfran.png" alt="property-5" class="img-fluid">
@@ -177,11 +177,11 @@
                         </div>
                         <div class="detail">
                             <h1 class="title">
-                                <a href="san-francisco.php">Plaza San Francisco</a>
+                                <a href="san-francisco">Plaza San Francisco</a>
                             </h1>
                             
                             <div class="location">
-                                <a href="san-francisco.php">
+                                <a href="san-francisco">
                                     <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>Cacún, Quintana Roo
                                 </a>
                                 <p>3 locales con terraza para restaurantes desde 580 m2, 36 locales comerciales desde 51 m2 y 30 departamentos desde 68 m2. </p>
@@ -310,10 +310,10 @@
                     <div class="col-lg-7 col-md-12 col-pad align-self-center">
                         <div class="detail">
                             <h3>
-                                <a href="blog-1.php">10 consideraciones para elegir un terreno</a>
+                                <a href="blog-1">10 consideraciones para elegir un terreno</a>
                             </h3>
                             <div class="post-meta">
-                                <span><a href="blog-1.php"><i class="fa fa-user"></i>Desarrollos Wel</a></span>
+                                <span><a href="blog-1"><i class="fa fa-user"></i>Desarrollos Wel</a></span>
                                 <!-- <span><a href="#"><i class="fa fa-clock-o"></i>7 comentarios</a></span> -->
                             </div>
                             <p>Comprar un terreno es una buena inversión ya que puede ser el espacio para construir una casa o bien poner un negocio. Además un terreno no perderá su valor....</p>
@@ -335,10 +335,10 @@
                     <div class="col-lg-7 col-md-12 col-pad align-self-center">
                         <div class="detail">
                             <h3>
-                                <a href="blog.php">Diseño de Lobby</a>
+                                <a href="blog">Diseño de Lobby</a>
                             </h3>
                             <div class="post-meta">
-                                    <span><a href="blog.php"><i class="fa fa-user"></i>Desarrollos Wel</a></span>
+                                    <span><a href="blog"><i class="fa fa-user"></i>Desarrollos Wel</a></span>
                                 </div>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a</p>
                         </div>
@@ -361,7 +361,7 @@
                 </div>
             </div>
             <div class="col-lg-2 col-md-3 col-sm-12">
-                <a href="contacto.php" class="btn btn-md">Recibir Informacion</a>
+                <a href="contacto" class="btn btn-md">Recibir Informacion</a>
             </div>
         </div>
     </div>
