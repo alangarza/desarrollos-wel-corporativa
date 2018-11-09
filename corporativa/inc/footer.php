@@ -137,12 +137,12 @@
             </aside>
             <aside class="canvas-widget">
                 <ul class="menu">
-                    <li class="menu-item"><a href="index.php">Inicio</a></li>
-                    <li class="menu-item"><a href="nosotros.php">Nosotros</a></li>
+                    <li class="menu-item"><a href="index">Inicio</a></li>
+                    <li class="menu-item"><a href="nosotros">Nosotros</a></li>
                     <!-- <li class="menu-item"><a href="preventa.php">Preventa</a></li> -->
-                    <li class="menu-item"><a href="experiencia.php">Experiencia</a></li>
-                    <li class="menu-item"><a href="contacto.php">Contacto</a></li>
-                    <li class="menu-item"><a href="blog.php">Blog</a></li>
+                    <li class="menu-item"><a href="experiencia">Experiencia</a></li>
+                    <li class="menu-item"><a href="contacto">Contacto</a></li>
+                    <li class="menu-item"><a href="blog">Blog</a></li>
                 </ul>
             </aside>
             <aside class="canvas-widget">

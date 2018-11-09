@@ -22,13 +22,13 @@
                             <h5>Nov</h5>
                         </div>
                         <h3>
-                            <a href="blog-1.php">10 consideraciones para elegir un terreno</a>
+                            <a href="blog-1">10 consideraciones para elegir un terreno</a>
                         </h3>
                         <div class="post-meta">
                             <span><a href="#"><i class="fa fa-user"></i>Desarrollos Wel</a></span>
                         </div>
                         <p>Comprar un terreno es una buena inversión ya que puede ser el espacio para construir una casa o bien poner un negocio. Además un terreno no perderá su valor...</p>
-                        <a href="blog-1.php" class="btn-read-more">Leer Mas</a>
+                        <a href="blog-1" class="btn-read-more">Leer Mas</a>
                     </div>
                 </div>
             </div>

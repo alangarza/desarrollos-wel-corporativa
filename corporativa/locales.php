@@ -21,7 +21,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="property-box">
                     <div class="property-thumbnail">
-                        <a href="san-francisco.php" class="property-img">
+                        <a href="san-francisco" class="property-img">
                            
                             <img src="assets/img/desarrollos/sanfran-main.png" alt="property-2" class="img-fluid">
                         </a>
@@ -29,10 +29,10 @@
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="san-francisco.php">Plaza San Francisco</a>
+                            <a href="san-francisco">Plaza San Francisco</a>
                         </h1>
                         <div class="location">
-                            <a href="san-francisco.php">
+                            <a href="san-francisco">
                                 <i class="fa fa-map-marker"></i>Cancún, Quintana Roo.
                             </a>
                         </div>
@@ -46,7 +46,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="property-box">
                     <div class="property-thumbnail">
-                        <a href="santa-isabel.php" class="property-img">
+                        <a href="santa-isabel" class="property-img">
                            
                             <img src="assets/img/desarrollos/santaisabel-main.png" alt="property-2" class="img-fluid">
                         </a>
@@ -54,10 +54,10 @@
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="santa-isabel.php">Plaza Santa Isabel</a>
+                            <a href="santa-isabel">Plaza Santa Isabel</a>
                         </h1>
                         <div class="location">
-                            <a href="santa-isabel.php">
+                            <a href="santa-isabel">
                                 <i class="fa fa-map-marker"></i>Saltillo, Nuevo Léon.
                             </a>
                         </div>
@@ -70,7 +70,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="property-box">
                     <div class="property-thumbnail">
-                        <a href="cubik.php" class="property-img">
+                        <a href="cubik" class="property-img">
                            
                             <img src="assets/img/desarrollos/cubik-main.png" alt="property-2" class="img-fluid">
                         </a>
@@ -78,10 +78,10 @@
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="cubik.php">Torre Cubik</a>
+                            <a href="cubik">Torre Cubik</a>
                         </h1>
                         <div class="location">
-                            <a href="cubik.php">
+                            <a href="cubik">
                                 <i class="fa fa-map-marker"></i>San Pedro Garza García, Nuevo Léon.
                             </a>
                         </div>
@@ -96,7 +96,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="property-box">
                     <div class="property-thumbnail">
-                        <a href="torre-vetro.php" class="property-img">
+                        <a href="torre-vetro" class="property-img">
                            
                             <img src="assets/img/desarrollos/vetro-main.png" alt="property-2" class="img-fluid">
                         </a>
@@ -104,10 +104,10 @@
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="torre-vetro.php">Torre Vetro</a>
+                            <a href="torre-vetro">Torre Vetro</a>
                         </h1>
                         <div class="location">
-                            <a href="torre-vetro.php">
+                            <a href="torre-vetro">
                                 <i class="fa fa-map-marker"></i>Monterrey, Nuevo Leon.
                             </a>
                         </div>

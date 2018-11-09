@@ -63,13 +63,13 @@
                     <div class="navbar-collapse collapse w-100" id="navbar">
                         <ul class="navbar-nav w-100 justify-content-center">
                             <li class="nav-item">
-                                <a class="nav-link" href="index.php" aria-haspopup="true" aria-expanded="false">
+                                <a class="nav-link" href="index" aria-haspopup="true" aria-expanded="false">
                                     Inicio
                                 </a>
                           
                             </li>
                             <li class="nav-item ">
-                                    <a class="nav-link" href="nosotros.php" aria-haspopup="true" aria-expanded="false">
+                                    <a class="nav-link" href="nosotros" aria-haspopup="true" aria-expanded="false">
                                         Nosotros
                                     </a>
                               
@@ -83,32 +83,32 @@
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                
-                                    <li class="dropdown-submenu"><a class="dropdown-item" href="oficinas.php">Oficinas</a>
+                                    <li class="dropdown-submenu"><a class="dropdown-item" href="oficinas">Oficinas</a>
                                        
                                     </li>
-                                    <li class="dropdown-submenu"><a class="dropdown-item" href="locales.php">Locales Comerciales</a>
+                                    <li class="dropdown-submenu"><a class="dropdown-item" href="locales">Locales Comerciales</a>
                                       
                                     </li>
-                                    <li class="dropdown-submenu"><a class="dropdown-item" href="departamentos.php">Departamentos</a>
+                                    <li class="dropdown-submenu"><a class="dropdown-item" href="departamentos">Departamentos</a>
                                      
                                     </li>
                                   
                                 </ul>
                             </li>
                             <li class="nav-item ">
-                                    <a class="nav-link" href="experiencia.php" aria-haspopup="true" aria-expanded="false">
+                                    <a class="nav-link" href="experiencia" aria-haspopup="true" aria-expanded="false">
                                         Experiencia
                                     </a>
                               
                             </li>
                             <li class="nav-item ">
-                                    <a class="nav-link" href="blog.php" aria-haspopup="true" aria-expanded="false">
+                                    <a class="nav-link" href="blog" aria-haspopup="true" aria-expanded="false">
                                         Blog
                                     </a>
                               
                             </li>
                             <li class="nav-item ">
-                                        <a class="nav-link" href="contacto.php" aria-haspopup="true" aria-expanded="false">
+                                        <a class="nav-link" href="contacto" aria-haspopup="true" aria-expanded="false">
                                             Contacto
                                         </a>
                                   

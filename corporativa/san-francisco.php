@@ -300,7 +300,7 @@ Departamentos con elevadores privados con control de acceso.
                 </div>
             </div>
             <div class="col-lg-2 col-md-3 col-sm-12">
-                <a href="contacto.php" class="btn btn-md">Recibir Informacion</a>
+                <a href="contacto" class="btn btn-md">Recibir Informacion</a>
             </div>
         </div>
     </div>

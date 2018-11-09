@@ -21,7 +21,7 @@
             <div class="col-lg-5 col-md-6 col-sm-12">
                 <div class="property-box">
                     <div class="property-thumbnail">
-                        <a href="san-francisco.php" class="property-img">
+                        <a href="san-francisco" class="property-img">
                            
                             <img src="assets/img/desarrollos/sanfran-main.png" alt="property-2" class="img-fluid">
                         </a>
@@ -29,10 +29,10 @@
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="san-francisco.php">Plaza San Francisco</a>
+                            <a href="san-francisco">Plaza San Francisco</a>
                         </h1>
                         <div class="location">
-                            <a href="san-francisco.php">
+                            <a href="san-francisco">
                                 <i class="fa fa-map-marker"></i>Cancún, Quintana Roo.
                             </a>
                         </div>
