@@ -8,18 +8,20 @@
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-KCHSMGC');</script>
         <!-- End Google Tag Manager -->
-    <title>Desarrollos Wel - PROYECTOS PARA TU FUTURO </title>
+    <title>Desarrollos Wel - Proyectos para tu futuro </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="Desarrollos Wel, invierte en tu futuro. Plazas comerciales, Departamentos y Oficinas.">
+
     <meta charset="UTF-8">
     <!-- External CSS libraries -->
     <link type="text/css" rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link type="text/css" rel="stylesheet" href="assets/css/magnific-popup.css">
+    <!-- <link type="text/css" rel="stylesheet" href="assets/css/magnific-popup.css"> -->
     <link type="text/css" rel="stylesheet" href="assets/css/jquery.selectBox.css">
     <link type="text/css" rel="stylesheet" href="assets/css/dropzone.css">
     <link type="text/css" rel="stylesheet" href="assets/css/rangeslider.css">
     <link type="text/css" rel="stylesheet" href="assets/css/animate.min.css">
     <link type="text/css" rel="stylesheet" href="assets/css/leaflet.css">
-    <link type="text/css" rel="stylesheet" href="assets/css/map.css">
+    <!-- <link type="text/css" rel="stylesheet" href="assets/css/map.css"> -->
     <link type="text/css" rel="stylesheet" href="assets/css/jquery.mCustomScrollbar.css">
     <link type="text/css" rel="stylesheet" href="assets/fonts/flaticon/font/flaticon.css">
 

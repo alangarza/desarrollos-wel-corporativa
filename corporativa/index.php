@@ -5,7 +5,7 @@
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="d-block w-100" src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/slide1.png" alt="banner-1">
+                <img class="d-block w-100" src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/slide1.png" alt="banner-1">
                 <div class="carousel-caption banner-slider-inner d-flex h-100 text-center">
                     <div class="carousel-content container">
                         <div class="text-center">
@@ -22,7 +22,7 @@
             </div>
 
             <div class="carousel-item">
-                <img class="d-block w-100" src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/slide2.png" alt="banner-2">
+                <img class="d-block w-100" src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/slide2.png" alt="banner-2">
                 <div class="carousel-caption banner-slider-inner d-flex h-100 text-center">
                         <div class="carousel-content container">
                                 <div class="text-center">
@@ -39,7 +39,7 @@
             </div>
 
             <div class="carousel-item">
-                <img class="d-block w-100" src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/slide3.png" alt="banner-3">
+                <img class="d-block w-100" src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/slide3.png" alt="banner-3">
                 <div class="carousel-caption banner-slider-inner d-flex h-100 text-center">
                         <div class="carousel-content container">
                                 <div class="text-center">
@@ -72,7 +72,7 @@
 <div class="featured-properties content-area-2">
     <div class="container">
         <div class="main-title">
-            <h1>Destacado</h1>
+            <h1>Proyectos para tu futuro </h1>
         </div>
         <ul class="list-inline-listing filters filteriz-navigation">
             <li class="active btn filtr-button filtr" data-filter="all">Todo</li>
@@ -86,9 +86,8 @@
                     <div class="property-box">
                         <div class="property-thumbnail">
                             <a href="torre-vetro" class="property-img">
-                                <div class="tag button alt featured">Destacado</div>
                              
-                                <img src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/vetro.png" alt="property-7" class="img-fluid">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/vetro.jpg" alt="property-7" class="img-fluid">
                             </a>
                             <div class="property-overlay">
                              
@@ -113,9 +112,8 @@
                     <div class="property-box">
                         <div class="property-thumbnail">
                             <a href="santa-isabel" class="property-img">
-                                <div class="tag button alt featured">Destacado</div>
                                
-                                <img src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/santa.png" alt="property-2" class="img-fluid">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/santa.jpg" alt="property-2" class="img-fluid">
                             </a>
                             <div class="property-overlay">
                               
@@ -140,9 +138,8 @@
                     <div class="property-box">
                         <div class="property-thumbnail">
                             <a href="cubik" class="property-img">
-                                <div class="tag button alt featured">Destacado</div>
                                
-                                <img src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/cubik.png" alt="property-3" class="img-fluid">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/cubik.jpg" alt="property-3" class="img-fluid">
                             </a>
                             <div class="property-overlay">
                               
@@ -167,9 +164,8 @@
                     <div class="property-box">
                         <div class="property-thumbnail">
                             <a href="san-francisco" class="property-img">
-                                <div class="tag button alt featured">Destacado</div>
                                 
-                                <img src="https://alphamedia.sfo2.digitaloceanspaces.com/wel/sanfran.png" alt="property-5" class="img-fluid">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/sanfran.jpg" alt="property-5" class="img-fluid">
                             </a>
                             <div class="property-overlay">
                               
@@ -244,7 +240,7 @@
 
 
 <!-- Testimonial start -->
-<!-- <div class="testimonial overview-bgi wow fadeInUp delay-04s" style="background-image: url('https://alphamedia.sfo2.digitaloceanspaces.com/wel/test1.png')">
+<!-- <div class="testimonial overview-bgi wow fadeInUp delay-04s" style="background-image: url('https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/test1.png')">
     <div class="container">
         <div class="row">
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
