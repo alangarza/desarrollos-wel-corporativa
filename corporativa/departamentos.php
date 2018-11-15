@@ -36,7 +36,7 @@
                                 <i class="fa fa-map-marker"></i>Cancún, Quintana Roo.
                             </a>
                         </div>
-                        <p>3 locales con terraza para restaurantes desde 580 m2, 36 locales comerciales desde 51 m2 y 30 departamentos desde 68 m2. </p>
+                        <p>Un desarrollo vanguardista con Locales Comerciales, Locales con Terraza para Restaurantes y Departamentos en la ciudad con mayor plusvalía en todo México. </p>
                         
                       
                     </div>

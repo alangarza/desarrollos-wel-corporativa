@@ -101,7 +101,7 @@
                                 <a href="torre-vetro">
                                     <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>Monterrey, Nuevo León
                                 </a>
-                                <p>3 locales con terraza para restaurantes desde 580 m2, 36 locales comerciales desde 51 m2 y 30 departamentos desde 68 m2. </p>
+                                <p>Con más de 23 niveles, incluídos 6 sótanos de estacionamiento, nuestra Torre Vetro es una gran opción si buscas estrenar oficina o local comercial en la ciudad de Monterrey. </p>
                             </div>
                      
                         </div>
@@ -125,9 +125,8 @@
                             </h1>
                             <div class="location">
                                 <a href="santa-isabel">
-                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>Saltillo, Coahuila
-</a>
-<p>3 locales con terraza para restaurantes desde 580 m2, 36 locales comerciales desde 51 m2 y 30 departamentos desde 68 m2. </p>
+                                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>Saltillo, Coahuila</a>
+<p>Un desarrollo ubicado en una de las principales zonas económicas del país cuenta con Locales comerciales y más de 130 espacios de oficinas. </p>
                             </div>
                            
                         </div>
@@ -153,7 +152,7 @@
                                 <a href="cubik">
                                     <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>San Pedro Garza García
                                 </a>
-                                <p>3 locales con terraza para restaurantes desde 580 m2, 36 locales comerciales desde 51 m2 y 30 departamentos desde 68 m2. </p>
+                                <p>Ubicada en uno de los puntos con mayor afluencia en el municipio de San Pedro sumado a su diseño vanguardista y aprovechamiento de los espacios lo convierte en un proyecto único y una excelente oportunidad de inversión. </p>
                             </div>
                            
                         </div>
@@ -180,7 +179,7 @@
                                 <a href="san-francisco">
                                     <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>Cacún, Quintana Roo
                                 </a>
-                                <p>3 locales con terraza para restaurantes desde 580 m2, 36 locales comerciales desde 51 m2 y 30 departamentos desde 68 m2. </p>
+                                <p>Un desarrollo vanguardista con Locales Comerciales, Locales con Terraza para Restaurantes y Departamentos en la ciudad con mayor plusvalía en todo México. </p>
                             </div>
                           
                         </div>

@@ -36,7 +36,7 @@
                                 <i class="fa fa-map-marker"></i>Cancún, Quintana Roo.
                             </a>
                         </div>
-                        <p>3 locales con terraza para restaurantes desde 580 m2, 36 locales comerciales desde 51 m2 y 30 departamentos desde 68 m2. </p>
+                        <p>Un desarrollo vanguardista con Locales Comerciales, Locales con Terraza para Restaurantes y Departamentos en la ciudad con mayor plusvalía en todo México. </p>
                         
                       
                     </div>
@@ -61,7 +61,7 @@
                                 <i class="fa fa-map-marker"></i>Saltillo, Nuevo Léon.
                             </a>
                         </div>
-                        <p>Cuenta con  un local ancla, 11 locales semi ancla, 64 locales comerciales, 10 locales con terraza para restaurantes y 126 espacios para oficinas. </p>
+                        <p>Un desarrollo ubicado en una de las principales zonas económicas del país cuenta con Locales comerciales y más de 130 espacios de oficinas. </p>
                       
                     </div>
                  
@@ -85,9 +85,7 @@
                                 <i class="fa fa-map-marker"></i>San Pedro Garza García, Nuevo Léon.
                             </a>
                         </div>
-                        <p>
-                        Cuenta con 12 locales en los primeros tres niveles, y 18 oficinas del cuarto al noveno nivel. Además, tiene más de 90 cajones de estacionamiento 
-                        </p>
+                        <p>Ubicada en uno de los puntos con mayor afluencia en el municipio de San Pedro sumado a su diseño vanguardista y aprovechamiento de los espacios lo convierte en un proyecto único y una excelente oportunidad de inversión. </p>
                       
                     </div>
                  
@@ -111,7 +109,7 @@
                                 <i class="fa fa-map-marker"></i>Monterrey, Nuevo Leon.
                             </a>
                         </div>
-                      <p>Ubicada sobre la Av. Eugenio Garza Sada, una de las más afluyentes en Monterrey y con más de 23 niveles, incluídos 6 sótanos de estacionamiento.</p>
+                        <p>Con más de 23 niveles, incluídos 6 sótanos de estacionamiento, nuestra Torre Vetro es una gran opción si buscas estrenar oficina o local comercial en la ciudad de Monterrey. </p>
                     </div>
                  
                 </div>
