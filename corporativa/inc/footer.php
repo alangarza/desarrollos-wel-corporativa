@@ -91,7 +91,7 @@
                     <!-- <li class="menu-item"><a href="preventa.php">Preventa</a></li> -->
                     <li class="menu-item"><a href="experiencia">Experiencia</a></li>
                     <li class="menu-item"><a href="contacto">Contacto</a></li>
-                    <li class="menu-item"><a href="blog">Blog</a></li>
+                    <li class="menu-item"><a href="https://blog.desarrolloswel.com">Blog</a></li>
                 </ul>
             </aside>
             <aside class="canvas-widget">

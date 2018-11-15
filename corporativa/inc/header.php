@@ -71,7 +71,7 @@
                           
                             </li>
                             <li class="nav-item ">
-                                    <a class="nav-link" href="nosotros.php" aria-haspopup="true" aria-expanded="false">
+                                    <a class="nav-link" href="nosotros" aria-haspopup="true" aria-expanded="false">
                                         Nosotros
                                     </a>
                               
@@ -104,7 +104,7 @@
                               
                             </li>
                             <li class="nav-item ">
-                                    <a class="nav-link" href="blog" aria-haspopup="true" aria-expanded="false">
+                                    <a class="nav-link" href="https://blog.desarrolloswel.com" aria-haspopup="true" aria-expanded="false">
                                         Blog
                                     </a>
                               

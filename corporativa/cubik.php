@@ -202,7 +202,7 @@ Desarrollos WEL <br>Arq. Reyna Mejía / MG Arquitectura + Interiores
                         <div class="tab-pane fade " id="5" role="tabpanel" aria-labelledby="5-tab">
                             <div class="section location">
                                 <h3 class="heading">Ubicacion</h3>
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d899.0650721071963!2d-100.38313767078583!3d25.662665007797635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8662bd8f68742889%3A0x81398fc04954cb18!2sAvenida+Humberto+Lobo+232%2C+Del+Valle%2C+66220+Monterrey%2C+N.L.!5e0!3m2!1sen!2smx!4v1541468280248" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d899.0646114560852!2d-100.38310867078586!3d25.662726107796956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8662bd8f42a2b151%3A0x3235ceac77d1c3cf!2sAvenida+Humberto+Lobo+236%2C+Del+Valle%2C+66220+Monterrey%2C+N.L.!5e0!3m2!1sen!2smx!4v1542294350977" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                               
                               
                             </div>

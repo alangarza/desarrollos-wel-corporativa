@@ -15,20 +15,20 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="blog-grid-box">
-                    <img class="blog-theme img-fluid" src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/blog1.jpg" alt="property-10">
+                    <img class="blog-theme img-fluid" src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/blog/blog.png" alt="property-10">
                     <div class="detail">
                         <div class="date-box">
-                            <h5>05</h5>
+                            <h5>14</h5>
                             <h5>Nov</h5>
                         </div>
                         <h3>
-                            <a href="blog-1">10 consideraciones para elegir un terreno</a>
+                            <a href="por-que-invertir-en-un-local-comercial">¿Por qué invertir en un local comercial?</a>
                         </h3>
                         <div class="post-meta">
                             <span><a href="#"><i class="fa fa-user"></i>Desarrollos Wel</a></span>
                         </div>
-                        <p>Comprar un terreno es una buena inversión ya que puede ser el espacio para construir una casa o bien poner un negocio. Además un terreno no perderá su valor...</p>
-                        <a href="blog-1" class="btn-read-more">Leer Mas</a>
+                        <p>Un local comercial es un activo fijo que además de proporcionar un ingreso mensual por la renta, incrementa su valor en e..</p>
+                        <a href="por-que-invertir-en-un-local-comercial" class="btn-read-more">Leer Mas</a>
                     </div>
                 </div>
             </div>

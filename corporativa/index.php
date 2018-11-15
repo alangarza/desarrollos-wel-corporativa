@@ -113,7 +113,7 @@
                         <div class="property-thumbnail">
                             <a href="santa-isabel" class="property-img">
                                
-                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/santa.jpg" alt="property-2" class="img-fluid">
+                                <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/santa2.jpg" alt="property-2" class="img-fluid">
                             </a>
                             <div class="property-overlay">
                               
@@ -286,7 +286,7 @@
 <!-- Testimonial end -->
 
 <!-- Blog 2 start -->
-<div class="blog-2 content-area-2 wow fadeInUp delay-04s">
+<!-- <div class="blog-2 content-area-2 wow fadeInUp delay-04s">
     <div class="container">
         <div class="main-title">
             <h1>Blog</h1>
@@ -310,7 +310,6 @@
                             </h3>
                             <div class="post-meta">
                                 <span><a href="blog-1"><i class="fa fa-user"></i>Desarrollos Wel</a></span>
-                                <!-- <span><a href="#"><i class="fa fa-clock-o"></i>7 comentarios</a></span> -->
                             </div>
                             <p>Comprar un terreno es una buena inversión ya que puede ser el espacio para construir una casa o bien poner un negocio. Además un terreno no perderá su valor....</p>
                         </div>
@@ -343,7 +342,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- Blog 2 start -->
 
 <!-- intro section start -->
