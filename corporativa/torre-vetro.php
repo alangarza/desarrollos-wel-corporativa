@@ -103,7 +103,7 @@
                     <div class="tab-content" id="carTabContent">
                         <div class="tab-pane fade active show" id="one" role="tabpanel" aria-labelledby="one-tab">
                             <h3 class="heading">Torre Vetro</h3>
-                            <p>Ubicada sobre la Av. Eugenio Garza Sada, una de las más afluyentes en Monterrey y con más de 23 niveles, incluídos 6 sótanos de estacionamiento, nuestra Torre Géminis es una gran opción si buscas estrenar oficina o local comercial proximamente en la ciudad. 
+                            <p>Ubicada sobre la Av. Eugenio Garza Sada, una de las más afluyentes en Monterrey y con más de 23 niveles, incluídos 6 sótanos de estacionamiento, nuestra Torre Vetro es una gran opción si buscas estrenar oficina o local comercial proximamente en la ciudad. 
                              </p>
                              <hr>
                              <h3 class="heading">Diseno Arquitectonico</h3>

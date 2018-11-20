@@ -6,7 +6,7 @@
             <h1>Experiencia en Desarrollos
 
             </h1>
-            <p>Conoce lo que hemos logrado en nuestros más de 50 años</p>        
+            <p>Conoce lo que hemos logrado en nuestros más de 50 años</p>
         </div>
     </div>
 </div>
@@ -67,7 +67,17 @@
 
     <ul class="days">
 
-
+      <li class="day">
+      <div class="events">
+          <div class="day__img">
+          <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/experiencia/santaelena.jpg" alt="" />
+          <p class="caption">
+          2018
+          </p>
+          </div>
+          <div class="date">Plaza Santa Elena<br> Monterrey</div>
+      </div>
+      </li>
         <li class="day">
         <div class="events">
             <div class="day__img">
@@ -499,19 +509,19 @@
 
     </ul>
 
-    
 
-    
-  
+
+
+
   <div class="year year--end">
     <div class="inner">
-     
+
     </div>
   </div>
-  
 
 
-  
+
+
 </div>
 
 

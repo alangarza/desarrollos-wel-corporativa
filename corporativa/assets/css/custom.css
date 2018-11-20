@@ -133,5 +133,7 @@
     right: auto;
     left: 0;
   }
-  
-  
+
+  .avances-container-sub{
+    margin: 0 auto;
+  }

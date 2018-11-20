@@ -1,0 +1,9 @@
+Noviembre 20
+- Se agregó plaza comercial en página de experiencia
+- Se actualizan los planos de la plaza san francisco
+- Se cambiaron los planos de Plaza Santa Isabel
+- Agregar al menú avances de obra
+- Sección avances de obra
+- Se agregó video de santa isabel
+
+Responsable: Alan Garza

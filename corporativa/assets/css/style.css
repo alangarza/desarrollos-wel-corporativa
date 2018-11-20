@@ -975,6 +975,10 @@ input[type=checkbox]:checked + label:before {
     padding: 0;
 }
 
+.navbar-nav{
+  margin-left: 120px;
+}
+
 .main-header .navbar-expand-lg .navbar-nav .nav-link {
     padding: 30px 17px 27px;
     font-size: 13px;
@@ -6299,6 +6303,9 @@ body.off-canvas-sidebar-open {
 
 .off-canvas-header {
     padding-top: 30px;
+
+
+
     padding-bottom: 20px;
     text-align: right
 }

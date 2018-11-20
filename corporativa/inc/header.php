@@ -56,8 +56,11 @@
         <div class="row">
             <div class="col-12">
                 <nav class="navbar navbar-expand-lg navbar-light rounded">
-                    <a class="navbar-brand logo navbar-brand d-flex w-50 mr-auto" href="index">
-                        <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/logos/logo-dark.png" alt="logo">
+                    <!-- <a class="navbar-brand logo navbar-brand d-flex w-100" href="index">
+                        <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/logos/logo-wel.svg" alt="logo">
+                    </a> -->
+                    <a class="logo " href="index">
+                        <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/logos/logo-wel.svg" alt="logo">
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="fa fa-bars"></span>
@@ -68,54 +71,60 @@
                                 <a class="nav-link" href="index" aria-haspopup="true" aria-expanded="false">
                                     Inicio
                                 </a>
-                          
+
                             </li>
                             <li class="nav-item ">
                                     <a class="nav-link" href="nosotros" aria-haspopup="true" aria-expanded="false">
                                         Nosotros
                                     </a>
-                              
+
                                 </li>
-                          
-                             
-                             
+
+
+
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink5" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Preventa
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                               
+
                                     <li class="dropdown-submenu"><a class="dropdown-item" href="oficinas">Oficinas</a>
-                                       
+
                                     </li>
                                     <li class="dropdown-submenu"><a class="dropdown-item" href="locales">Locales Comerciales</a>
-                                      
+
                                     </li>
                                     <li class="dropdown-submenu"><a class="dropdown-item" href="departamentos">Departamentos</a>
-                                     
+
                                     </li>
-                                  
+
                                 </ul>
                             </li>
                             <li class="nav-item ">
                                     <a class="nav-link" href="experiencia" aria-haspopup="true" aria-expanded="false">
                                         Experiencia
                                     </a>
-                              
+
                             </li>
+                          <li class="nav-item ">
+                                  <a class="nav-link" href="avances" aria-haspopup="true" aria-expanded="false">
+                                      Avances de Obra
+                                  </a>
+
+                          </li>
                             <li class="nav-item ">
                                     <a class="nav-link" href="https://blog.desarrolloswel.com" aria-haspopup="true" aria-expanded="false">
                                         Blog
                                     </a>
-                              
+
                             </li>
                             <li class="nav-item ">
                                         <a class="nav-link" href="contacto" aria-haspopup="true" aria-expanded="false">
                                             Contacto
                                         </a>
-                                  
+
                             </li>
-                        
+
                         </ul>
                         <ul class="nav navbar-nav ml-auto w-100 justify-content-end">
                             <li class="nav-item">
