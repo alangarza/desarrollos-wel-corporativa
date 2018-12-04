@@ -137,3 +137,35 @@
   .avances-container-sub{
     margin: 0 auto;
   }
+
+
+.carr .slide {
+  width: 33%;
+}
+
+.carr img {
+  width: 300px;
+  margin: 0 auto;
+}
+
+
+.slide h4 {
+  margin: 0 auto;
+}
+
+
+.carr-cont {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.slick-prev:before {
+  color: #000!important;
+}
+.slick-next:before {
+  color: #000!important;
+}
+
+.slick-active img{
+  filter: none;!important
+}

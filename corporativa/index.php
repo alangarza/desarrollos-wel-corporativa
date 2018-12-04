@@ -9,7 +9,7 @@
                 <div class="carousel-caption banner-slider-inner d-flex h-100 text-center">
                     <div class="carousel-content container">
                         <div class="text-center">
-                            <h1 data-animation="animated fadeInDown delay-05s">PROYECTOS PARA 
+                            <h1 data-animation="animated fadeInDown delay-05s">PROYECTOS PARA
 
                                     <br/>TU FUTURO</h1>
                             <p data-animation="animated fadeInUp delay-10s">
@@ -26,8 +26,8 @@
                 <div class="carousel-caption banner-slider-inner d-flex h-100 text-center">
                         <div class="carousel-content container">
                                 <div class="text-center">
-                                    <h1 data-animation="animated fadeInDown delay-05s">PROYECTOS PARA 
-        
+                                    <h1 data-animation="animated fadeInDown delay-05s">PROYECTOS PARA
+
                                             <br/>TU FUTURO</h1>
                                     <p data-animation="animated fadeInUp delay-10s">
                                             Contamos con más de 50 años de experiencia desarrollando bienes inmobiliarios rentables                            </p>
@@ -43,8 +43,8 @@
                 <div class="carousel-caption banner-slider-inner d-flex h-100 text-center">
                         <div class="carousel-content container">
                                 <div class="text-center">
-                                    <h1 data-animation="animated fadeInDown delay-05s">PROYECTOS PARA 
-        
+                                    <h1 data-animation="animated fadeInDown delay-05s">PROYECTOS PARA
+
                                             <br/>TU FUTURO</h1>
                                     <p data-animation="animated fadeInUp delay-10s">
                                             Contamos con más de 50 años de experiencia desarrollando bienes inmobiliarios rentables                            </p>
@@ -84,14 +84,12 @@
             <div class="cars">
                 <div class="col-lg-4 col-md-6 col-sm-12 filtr-item" data-category="1, 2">
                     <div class="property-box">
+
                         <div class="property-thumbnail">
                             <a href="torre-vetro" class="property-img">
-                             
                                 <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/vetro.jpg" alt="property-7" class="img-fluid">
                             </a>
-                            <div class="property-overlay">
-                             
-                            </div>
+
                         </div>
                         <div class="detail">
                             <h1 class="title">
@@ -103,21 +101,27 @@
                                 </a>
                                 <p>Con más de 23 niveles, incluídos 6 sótanos de estacionamiento, nuestra Torre Vetro es una gran opción si buscas estrenar oficina o local comercial en la ciudad de Monterrey. </p>
                             </div>
-                     
+
                         </div>
-                      
+                        <div class="footer">
+                                <a href="#">
+                                    <i class="fa fa-user"></i> Jhon Doe
+                                </a>
+                                <span>
+                                <i class="fa fa-calendar-o"></i> 2 years ago
+                            </span>
+                            </div>
+
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 filtr-item" data-category="1, 2">
                     <div class="property-box">
                         <div class="property-thumbnail">
                             <a href="santa-isabel" class="property-img">
-                               
+
                                 <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/santa2.jpg" alt="property-2" class="img-fluid">
                             </a>
-                            <div class="property-overlay">
-                              
-                            </div>
+
                         </div>
                         <div class="detail">
                             <h1 class="title">
@@ -128,21 +132,19 @@
                                     <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>Saltillo, Coahuila</a>
 <p>Un desarrollo ubicado en una de las principales zonas económicas del país cuenta con Locales comerciales y más de 130 espacios de oficinas. </p>
                             </div>
-                           
+
                         </div>
-                       
+
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 filtr-item" data-category="1, 2">
                     <div class="property-box">
                         <div class="property-thumbnail">
                             <a href="cubik" class="property-img">
-                               
+
                                 <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/cubik.jpg" alt="property-3" class="img-fluid">
                             </a>
-                            <div class="property-overlay">
-                              
-                            </div>
+
                         </div>
                         <div class="detail">
                             <h1 class="title">
@@ -154,39 +156,37 @@
                                 </a>
                                 <p>Ubicada en uno de los puntos con mayor afluencia en el municipio de San Pedro sumado a su diseño vanguardista y aprovechamiento de los espacios lo convierte en un proyecto único y una excelente oportunidad de inversión. </p>
                             </div>
-                           
+
                         </div>
-                    
+
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 filtr-item" data-category="1, 3">
                     <div class="property-box">
                         <div class="property-thumbnail">
                             <a href="san-francisco" class="property-img">
-                                
+
                                 <img src="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/sanfran.jpg" alt="property-5" class="img-fluid">
                             </a>
-                            <div class="property-overlay">
-                              
-                            </div>
+                    
                         </div>
                         <div class="detail">
                             <h1 class="title">
                                 <a href="san-francisco">Plaza San Francisco</a>
                             </h1>
-                            
+
                             <div class="location">
                                 <a href="san-francisco">
                                     <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>Cacún, Quintana Roo
                                 </a>
                                 <p>Un desarrollo vanguardista con Locales Comerciales, Locales con Terraza para Restaurantes y Departamentos en la ciudad con mayor plusvalía en todo México. </p>
                             </div>
-                          
+
                         </div>
-                       
+
                     </div>
                 </div>
-             
+
             </div>
         </div>
     </div>
@@ -202,10 +202,10 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp delay-04s">
-                
+
                 <div class="media services-info">
                         <i class="fas fa-briefcase"></i>
-                    
+
                     <div class="media-body">
                         <h5>Oficinas</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
@@ -231,7 +231,7 @@
                     </div>
                 </div>
             </div>
-           
+
         </div>
     </div>
 </div> -->
@@ -255,25 +255,25 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                               
+
                                 <p class="lead">
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                                 </p>
-                              
+
                             </div>
                             <div class="carousel-item">
-                                
+
                                 <p class="lead">
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                                 </p>
-                            
+
                             </div>
                             <div class="carousel-item">
-                                
+
                                 <p class="lead">
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                                 </p>
-                               
+
                             </div>
                         </div>
                     </div>
@@ -348,7 +348,7 @@
 <div class="intro-section">
     <div class="container">
         <div class="row">
-          
+
             <div class="col-lg-9 col-md-9 col-sm-12">
                 <div class="intro-text">
                     <h3>¿Buscas invertir en bienes raices?</h3>

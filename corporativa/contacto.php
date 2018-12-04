@@ -5,7 +5,7 @@
     <div class="container">
         <div class="breadcrumb-area">
             <h1>Contacto Directo</h1>
-          
+
         </div>
     </div>
 </div>
@@ -33,7 +33,7 @@
                                 <input type="email" name="correo" class="form-control" placeholder="Correo">
                             </div>
                         </div>
-                     
+
                         <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                             <div class="form-group number">
                                 <input type="text" name="telefono" class="form-control" placeholder="Telefono">
@@ -52,8 +52,8 @@
                         </div>
 
 
-                       
-                       
+
+
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="form-group message">
                                 <textarea class="form-control" name="mensaje" placeholder="Mensaje"></textarea>
@@ -82,10 +82,11 @@
                         <i class="fa fa-phone"></i>
                         <div class="media-body">
                             <h5 class="mt-0">Telefono</h5>
-                            
+
                             <p>Telefono<a href="tel:8183562700">: (81) 8356-2700</a> </p>
-                            <p>Celular<a href="tel:8113010712">: (81) 1301-0712</a> </p>
-                   
+                            <p>Celular 1<a href="tel:8113010712">: (81) 1301-0712</a> </p>
+                            <p>Celular 2<a href="tel:8126963994">: (81) 2696-3994‬</a> </p>
+
                         </div>
                     </div>
                     <div class="media">
@@ -95,7 +96,7 @@
                             <p>Lunes a viernes: 9:30 a.m. a 7 p.m.</p>
                             <p>Sábados: 9:30 a.m. a 1 p.m.</p>
                             <p>Domingos: Cerrado</p>
-                            
+
                         </div>
                     </div>
                     <div class="media mrg-btn-0">

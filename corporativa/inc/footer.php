@@ -12,15 +12,21 @@
 
                     <ul class="contact-info">
                         <li>
-                                Rio Tamazunchale 330 Norte <br> Del Valle, Nuevo León. 
+                                Rio Tamazunchale 330 Norte <br> Del Valle, Nuevo León.
                         </li>
                         <li>
                             Correo: <a href="mailto:ventas@desarrolloswel.com">ventas@desarrolloswel.com</a>
                         </li>
                         <li>
-                            Telefono: <a href="tel:+528183562700">(81) 8356-2700</a>
+                            Telefonos: <br />
+                            <a href="tel:+528183562700">(81) 8356-2700</a>
+                            <a href="tel:+528113010712">(81) 1301 0712</a>
+                            <a href="tel:+528126963994">(81) 2696 3994‬</a>
+
+
+
                         </li>
-                    
+
                     </ul>
 
                     <ul class="social-list clearfix">
@@ -53,12 +59,12 @@
                         <li>
                             <a href="#"><i class="fa fa-angle-right"></i>Politica de Privacidad</a>
                         </li>
-                
+
                     </ul>
                 </div>
             </div>
-         
-         
+
+
         </div>
 
         <div class="row">
@@ -97,7 +103,7 @@
             <aside class="canvas-widget">
                 <ul class="social-icons">
                         <li><a href="https://www.facebook.com/desarrolloswel/" class="facebook"><i class="fab fa-facebook-f"></i></a></li>
-                     
+
                         <li><a href="https://www.linkedin.com/company/desarrollos-wel/" class="linkedin"><i class="fab fa-linkedin"></i></a></li>
                 </ul>
             </aside>
@@ -132,5 +138,7 @@
 <!-- <script src="assets/js/ie-emulation-modes-warning.js"></script> -->
 <!-- Custom JS Script -->
 <script  src="assets/js/app.js"></script>
+<script src="assets/js/slick.js"></script>
+
 </body>
 </html>

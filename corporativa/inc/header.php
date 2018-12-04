@@ -26,6 +26,8 @@
     <link type="text/css" rel="stylesheet" href="assets/fonts/flaticon/font/flaticon.css">
 
 
+
+
     <!-- Favicon icon -->
     <link rel="shortcut icon" href="https://alphamedia.sfo2.cdn.digitaloceanspaces.com/wel/corp/favicon.png" type="image/x-icon" >
 
@@ -35,6 +37,8 @@
     <!-- Custom Stylesheet -->
     <link type="text/css" rel="stylesheet" href="assets/css/style.css">
     <link type="text/css" rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/slick-theme.css"/>
 
 
     <link rel="stylesheet" type="text/css" id="style_sheet" href="assets/css/skins/default.css">
